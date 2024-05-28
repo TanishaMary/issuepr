@@ -1,0 +1,10 @@
+what type of pull request is this - This is an error fixing pull request.
+what this pull request does - This pull request fixes the syntax error in the code. There is no semicolon for the printf and scanf statements. This PR will fix those errors by adding the semicolon wherever needed..
+what is the issue of this pull request - syntax error, issue no:03
+Test report- the code is not working and it shows error message.
+
+Issue/Feature description - This issue is to be fix syntax error in the code of the c program . Semicolons are missing for the printf and scanf statements.
+Why this issue to be fixed - This issue need to be fixed, because if the error exits it may effect the working of the code and will display error message.
+How to reproduce in case of bugs - if the error occurs, it will display an error message and this can be avoid by adding the semicolon to the printf and scanf statements to fix the error.
+Other notes/Environmental informations - there is some extra lines of code.
+@DrMargaretMary
